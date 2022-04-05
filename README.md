@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alejedrasik
+- 👀 I’m interested in psychology
+- 💞️ I’m looking to collaborate with FullStack, FrontEnd and BackEnd Developer; DevOps; Project Managers and all about IT 
+- 📫 How to reach me aleksadra.jedrasik@altimi.com
